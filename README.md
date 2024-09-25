@@ -1,5 +1,5 @@
 # CS2_External 
-    [image:https://imgur.com/a/DvW3DmP]
+![4a0zjabf3b](https://github.com/user-attachments/assets/52063954-1106-432b-b4ac-158dbc9df062)
 Rendering
 Enemies
 Rectangle
